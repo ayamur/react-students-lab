@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  background-color: darkslategrey;
+  color: goldenrod;
+}
+
+div {
+  border: orangered 3px dotted;
+}
